@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aristwn97
 - 👀 I’m interested in BI
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning SQL, Tableau, Power BI, and many more vizualisation toolkits
+- 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me ...
 
 <!---
